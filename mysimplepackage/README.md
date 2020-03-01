@@ -1,6 +1,7 @@
 # mysimplepackage
 
 <!-- badges: start -->
+[![R build status](https://github.com/lheintz/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)]
 <!-- badges: end -->
 
 The goal of mysimplepackage is to ...
