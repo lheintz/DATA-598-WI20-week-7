@@ -1,6 +1,6 @@
 #' Celsuis to Fahrenheit
 #' Function converts celsius temperatures to fahrenheit temperatures
-#' @param temp_C
+#' @param temp_C an integer
 #'
 #' @return The temperature after being converted to fahrenheit
 #' @export

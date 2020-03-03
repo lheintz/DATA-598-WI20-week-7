@@ -1,6 +1,6 @@
 #' Plus two
 #' This function adds two to the input variable.
-#' @param x
+#' @param x any number
 #'
 #' @return Two more than the number input
 #' @export

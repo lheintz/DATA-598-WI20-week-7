@@ -8,7 +8,7 @@ Function converts celsius temperatures to fahrenheit temperatures}
 celsius_to_fahrenheit(temp_C)
 }
 \arguments{
-\item{temp_C}{}
+\item{temp_C}{an integer}
 }
 \value{
 The temperature after being converted to fahrenheit

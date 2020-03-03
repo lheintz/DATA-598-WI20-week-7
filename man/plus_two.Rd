@@ -8,7 +8,7 @@ This function adds two to the input variable.}
 plus_two(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{any number}
 }
 \value{
 Two more than the number input
