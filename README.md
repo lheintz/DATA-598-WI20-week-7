@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/lheintz/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)]
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheintz/DATA-598-WI20-week-7/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplepackage is to ...
